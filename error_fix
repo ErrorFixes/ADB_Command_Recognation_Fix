@@ -1,0 +1,12 @@
+Create User Environment Variable like this
+Variable Name: ANDROID_PLATFORM_TOOLS
+Variable Location: "C:\NVPACK\android-sdk-windows\platform-tools"
+
+Variable Name: ANDROID_TOOLS
+Variable Location: "C:\NVPACK\android-sdk-windows\tools"
+
+Insert these locations to the path:
+%ANDROID_PLATFORM_TOOLS%
+%ANDROID_TOOLS%
+
+Restart Computer
