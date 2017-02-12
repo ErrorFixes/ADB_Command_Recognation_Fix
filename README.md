@@ -1,4 +1,4 @@
-# ADB_Console_Fix
+# ADB_Command_Recognation_Fix
 ADB Cannot Be Recognized as Command
 
 There are two solution for that command recognation error.
