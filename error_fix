@@ -1,12 +1,21 @@
-Create User Environment Variable like this
+Create "User Variables" in Environment Variables like this.
+
 Variable Name: ANDROID_PLATFORM_TOOLS
-Variable Location: "C:\NVPACK\android-sdk-windows\platform-tools"
+Variable Location for Nvidia Codeworks: "C:\NVPACK\android-sdk-windows\platform-tools"
+Variable Location for Visual Studio: "C:\Program Files (x86)\Android\android-sdk\platform-tools"
 
 Variable Name: ANDROID_TOOLS
-Variable Location: "C:\NVPACK\android-sdk-windows\tools"
+Variable Location for Nvidia Codeworks: "C:\NVPACK\android-sdk-windows\tools"
+Variable Location for Visual Studio: "C:\Program Files (x86)\Android\android-sdk\tools"
 
 Insert these locations to the path:
 %ANDROID_PLATFORM_TOOLS%
 %ANDROID_TOOLS%
 
 Restart Computer
+
+Other Locations for Visual Studio Android Development Tools
+Android SDK: C:/Program Files (x86)/Android/android-sdk
+Android NDK: C:/ProgramData/Microsoft/AndroidNDK64/android-ndk-r13b
+Apache ANT: C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/Apps/apache-ant-1.9.3
+JDK: C:/Program Files/Java/jdk1.8.0_112
